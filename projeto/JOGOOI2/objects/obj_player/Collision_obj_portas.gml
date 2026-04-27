@@ -1,5 +1,9 @@
 #region mandando pra room
-
-	room_goto(other.destino)
+	
+	if other.bloqueado{}
+	else{
+		
+		room_goto(other.destino)
+	}
 	
 #endregion

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_globais",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_globais",
+  "parent":{
+    "name":"JOGOOI2",
+    "path":"JOGOOI2.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
