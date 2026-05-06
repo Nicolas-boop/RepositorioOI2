@@ -10,10 +10,12 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_botaodebug","order":6,"path":"objects/obj_botaodebug/obj_botaodebug.yy",},
+    {"name":"obj_caixadetexto","order":9,"path":"objects/obj_caixadetexto/obj_caixadetexto.yy",},
     {"name":"obj_colision","order":1,"path":"objects/obj_colision/obj_colision.yy",},
     {"name":"obj_joy","order":7,"path":"objects/obj_joy/obj_joy.yy",},
     {"name":"obj_portas","order":2,"path":"objects/obj_portas/obj_portas.yy",},
     {"name":"obj_terminal","order":1,"path":"objects/obj_terminal/obj_terminal.yy",},
+    {"name":"obj_textbox","order":8,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"rm_21","order":1,"path":"rooms/rm_21/rm_21.yy",},
     {"name":"rm_31","order":2,"path":"rooms/rm_31/rm_31.yy",},
     {"name":"rm_qst11","order":1,"path":"rooms/rm_qst11/rm_qst11.yy",},
@@ -22,6 +24,7 @@
     {"name":"spr_espaco","order":1,"path":"sprites/spr_espaco/spr_espaco.yy",},
     {"name":"spr_joy","order":5,"path":"sprites/spr_joy/spr_joy.yy",},
     {"name":"spr_terminal","order":2,"path":"sprites/spr_terminal/spr_terminal.yy",},
+    {"name":"spr_textbox","order":6,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"spr_white","order":1,"path":"sprites/spr_white/spr_white.yy",},
   ],
 }
