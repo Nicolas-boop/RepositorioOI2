@@ -1,8 +1,26 @@
-global.showtextbox = !global.showtextbox;
+#region criando instancia nova, e selecionando qual é ela
 
-if global.showtextbox{
+	var _inst = instance_position(mouse_x, mouse_y, all);
+	var _textolixo = 0;
 	
-	instance_create_layer(336, 91, "texbox", obj_caixadetexto);
+	
+    if global.idp != _inst.idp{
+	
+		global.instance = _inst;
+		global.idp		= _inst.idp;
+		global.texto	= _inst.texto;
+		_textolixo	= _inst.texto;
+
+
+		instance_create_layer(xp, yp, "textbox", obj_caixadetexto);
 		
-	global.showtextbox = false;
-}
+	
+	}else{
+	
+		global.idp =		 -3;
+		global.instance = noone;
+
+	} 
+
+#endregion 
+
