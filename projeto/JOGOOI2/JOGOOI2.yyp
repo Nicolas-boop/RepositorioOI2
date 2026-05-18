@@ -11,8 +11,8 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"grupo do caminho da yasmim","folderPath":"folders/Objetos/grupo do caminho da yasmim.yy","name":"grupo do caminho da yasmim","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"caixas de texto","folderPath":"folders/Objetos/caixas de texto.yy","name":"caixas de texto","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"grupo do caminho da yasmim","folderPath":"folders/Objetos/grupo do caminho da yasmim.yy","name":"grupo do caminho da yasmim","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"terminal","folderPath":"folders/Objetos/terminal.yy","name":"terminal","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Room","folderPath":"folders/Room.yy","name":"Room","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Caminhos","folderPath":"folders/Room/Caminhos.yy","name":"Caminhos","resourceType":"GMFolder","resourceVersion":"2.0",},
