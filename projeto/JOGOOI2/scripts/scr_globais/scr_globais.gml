@@ -10,23 +10,5 @@ global.caixaativa    = noone;
 global.salaatual     = noone;
 
 
-#region salas 11
-
-global.sala11 = false;
-global.sala12 = false;
-global.sala13 = false;
-
-#endregion
-
-#region scripts
-
-function resetar(){
-	
-	global.sala11 = false;
-	global.sala12 = false;
-	global.sala13 = false;
-	
-	
-}
-
-#endregion
+global.circulos = array_create(7, noone);
+global.atual    = 0;

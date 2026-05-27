@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_white",
-    "path":"sprites/spr_white/spr_white.yy",
+    "name":"spr_personagem1_downidle",
+    "path":"sprites/spr_personagem1_downidle/spr_personagem1_downidle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

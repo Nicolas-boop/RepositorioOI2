@@ -1,0 +1,1 @@
+circuloatual = 0;

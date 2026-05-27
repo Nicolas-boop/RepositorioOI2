@@ -86,5 +86,7 @@
 		global.podeclicar =  false;
 		
 	}
-show_debug_message(_yd);
+	
+global.salaatual = room;
+
 #endregion

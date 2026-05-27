@@ -8,8 +8,8 @@
   "name":"obj_debug2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Room",
+    "path":"folders/Room.yy",
   },
   "parentObjectId":null,
   "persistent":false,
