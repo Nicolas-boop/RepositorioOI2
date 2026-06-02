@@ -12,3 +12,5 @@ global.salaatual     = noone;
 
 global.circulos = array_create(7, noone);
 global.atual    = 0;
+
+global.personagem = 1;

@@ -90,3 +90,83 @@
 global.salaatual = room;
 
 #endregion
+
+#region spritesandar
+	
+	//var def
+	var _upwalk, _upidle, _leftwalk, _leftidle, _rightwalk, _rightidle, _downidle, _downwalk;
+
+	
+	#region definindo personagem 
+	
+	if global.personagem == 1{
+		
+		_upwalk    = spr_personagem1_upwalk;
+		_upidle    = spr_personagem1_upidle;
+		_downidle  = spr_personagem1_downidle;
+		_downwalk  = spr_personagem1_downwalk;
+		_leftidle  = spr_personagem1_leftidle;
+		_leftwalk  = spr_personagem1_leftwalk;
+		_rightidle = spr_personagem1_rightidle;
+		_rightwalk = spr_personagem1_rightwalk;
+			
+	}else if global.personagem == 2{
+		
+		_upwalk    = spr_personagem2_upwalk;
+		_upidle    = spr_personagem2_upidle;
+		_downidle  = spr_personagem2_downidle;
+		_downwalk  = spr_personagem2_downwalk;
+		_leftidle  = spr_personagem2_leftidle;
+		_leftwalk  = spr_personagem2_leftwalk;
+		_rightidle = spr_personagem2_rightidle;
+		_rightwalk = spr_personagem2_rightwalk;
+	
+	
+	}
+
+	
+
+	#endregion
+	
+if _yspeed > 0 {
+		
+	sprite_index = _downwalk;
+		
+}else if _yspeed < 0{
+		
+	sprite_index = _upwalk;
+	
+}else if _xspeed > 0 and _yspeed = 0{
+		
+	sprite_index = _rightwalk;
+		
+}else if _xspeed <0 and _yspeed = 0{
+		
+	sprite_index = _leftwalk;
+		
+}else if _yspeed == 0 and _xspeed == 0{
+		
+	if  sprite_index == _downwalk{
+			
+		sprite_index = _downidle;
+		
+		
+	}else if sprite_index == _upwalk{
+			
+		sprite_index = _upidle;
+			
+		
+	}else if sprite_index ==_rightwalk{
+			
+		sprite_index = _rightidle;
+
+		
+	}else if sprite_index == _leftwalk{
+			
+		sprite_index = _leftidle;
+			
+	}
+		
+}
+
+#endregion
