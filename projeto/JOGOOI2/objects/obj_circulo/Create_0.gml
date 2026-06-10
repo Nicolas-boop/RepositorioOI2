@@ -1,4 +1,4 @@
-arrayalterar = global.atual % 7
+arrayalterar = global.atual % global.errosfase;
 
 global.circulos[arrayalterar] = id;
 

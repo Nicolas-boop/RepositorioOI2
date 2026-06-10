@@ -14,10 +14,6 @@
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"1781ed25-42ab-44ae-a556-08a6ce51e8e1","name":"1781ed25-42ab-44ae-a556-08a6ce51e8e1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"a5826c3e-e700-439e-9af2-0abc119fd2fe","name":"a5826c3e-e700-439e-9af2-0abc119fd2fe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"60c61d37-f862-4eb9-bc28-427b17a75bb5","name":"60c61d37-f862-4eb9-bc28-427b17a75bb5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"8e1bcb70-6251-48a1-94ca-c86d26e14203","name":"8e1bcb70-6251-48a1-94ca-c86d26e14203","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"ca83c552-17e5-4fad-8f5e-7b05784f50bc","name":"ca83c552-17e5-4fad-8f5e-7b05784f50bc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"621a2644-d59b-4e19-a13e-5eef31021e11","name":"621a2644-d59b-4e19-a13e-5eef31021e11","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -54,7 +50,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":6.0,
+    "length":2.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -79,18 +75,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a5826c3e-e700-439e-9af2-0abc119fd2fe","path":"sprites/spr_personagem2_upidle/spr_personagem2_upidle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bde5601d-68ae-4a22-b3e4-bdcccd12b691","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"60c61d37-f862-4eb9-bc28-427b17a75bb5","path":"sprites/spr_personagem2_upidle/spr_personagem2_upidle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2279cfa0-1cb5-4a6f-b3b8-6dbbc1088f26","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e1bcb70-6251-48a1-94ca-c86d26e14203","path":"sprites/spr_personagem2_upidle/spr_personagem2_upidle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0740a075-7087-4e8c-9759-3d7d99f75606","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ca83c552-17e5-4fad-8f5e-7b05784f50bc","path":"sprites/spr_personagem2_upidle/spr_personagem2_upidle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d1a8e6f0-17f3-454e-b4fb-ad105cdb9bd9","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"621a2644-d59b-4e19-a13e-5eef31021e11","path":"sprites/spr_personagem2_upidle/spr_personagem2_upidle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9d061bbd-e1d1-4d48-ab37-90ca14486669","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
