@@ -9,16 +9,25 @@
 	
 		global.acertou = true;
 		global.check   = false;
-
+		
+		
+		
+			
 	}else{
 		
 		
 	}	
 
 	if global.acertou{
-	
+		
+		audio_play_sound(snd_clickcert, 0, false);
+		if room = rm_lav3{
+			
+			global.caminho3pronto = true;
+			
+		}
 		global.acertou = false;
-		room_goto(rm_lav2);
+		room_goto(proxroom);
 	}
 #endregion
 

@@ -1,5 +1,8 @@
 #region criando instancia nova, e selecionando qual é ela
 
+	audio_play_sound(snd_clickmobile, 0, false);
+
+	
 	var _inst = instance_position(mouse_x, mouse_y, all);
 	var _textolixo = 0;
 	

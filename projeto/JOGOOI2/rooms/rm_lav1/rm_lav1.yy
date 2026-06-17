@@ -27,6 +27,7 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_16ED309C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_16ED309C","objectId":{"name":"obj_controlelavinia","path":"objects/obj_controlelavinia/obj_controlelavinia.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_controlelavinia","path":"objects/obj_controlelavinia/obj_controlelavinia.yy",},"propertyId":{"name":"erros","path":"objects/obj_controlelavinia/obj_controlelavinia.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_controlelavinia","path":"objects/obj_controlelavinia/obj_controlelavinia.yy",},"propertyId":{"name":"proxroom","path":"objects/obj_controlelavinia/obj_controlelavinia.yy",},"resource":{"name":"rm_lav2","path":"rooms/rm_lav2/rm_lav2.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_lav2",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_72514A5D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_72514A5D","objectId":{"name":"obj_botaoavancar","path":"objects/obj_botaoavancar/obj_botaoavancar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.75,"scaleY":0.75,"x":1152.0,"y":64.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
@@ -34,8 +35,8 @@
   ],
   "name":"rm_lav1",
   "parent":{
-    "name":"Caminhos",
-    "path":"folders/Room/Caminhos.yy",
+    "name":"lavinia",
+    "path":"folders/Room/Caminhos/lavinia.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -3,13 +3,14 @@
   "%Name":"obj_jogar",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_jogar",
   "overriddenProperties":[],
   "parent":{
     "name":"caixas de texto",
-    "path":"folders/Objetos/caixas de texto.yy",
+    "path":"folders/Objetos/telainicial/caixas de texto.yy",
   },
   "parentObjectId":null,
   "persistent":false,

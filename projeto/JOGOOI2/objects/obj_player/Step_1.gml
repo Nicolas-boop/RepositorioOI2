@@ -1,5 +1,16 @@
 #region mov
 	
+	#region espaco mobile
+	
+	if !position_meeting(x, y, obj_colterminal) and !position_meeting(x, y, obj_colterminallav){
+		
+			global.espacovisivel = false;
+
+		
+	}
+	
+	#endregion
+	
 	#region mudando keymap
 		
 		keyboard_set_map(ord("A"), vk_left);
@@ -28,16 +39,7 @@
 
 #region pode clicar
 	
-	if(place_meeting(x, y, obj_col_terminal)){
-		
-		global.podeclicar = true;
-		
-		
-	}else{
-		
-		global.podeclicar =  false;
-		
-	}
+
 	
 global.salaatual = room;
 

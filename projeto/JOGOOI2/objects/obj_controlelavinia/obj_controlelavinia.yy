@@ -30,7 +30,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v2","%Name":"erros","filters":[],"listItems":[],"multiselect":false,"name":"erros","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"erros","filters":[],"listItems":[],"multiselect":false,"name":"erros","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"3","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"proxroom","filters":[],"listItems":[],"multiselect":false,"name":"proxroom","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_telafinal1","path":"rooms/rm_telafinal1/rm_telafinal1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_telafinal1","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

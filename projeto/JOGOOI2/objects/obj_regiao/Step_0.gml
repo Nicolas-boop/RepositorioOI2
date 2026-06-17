@@ -7,6 +7,7 @@ if global.onetimelav{
 
 	if _qtd != numeroregioes{
 	
+				audio_play_sound(snd_clickerr, 0, false);
 		global.check = false;
 		global.onetimelav2 = true;
 		global.certos += numeroregioes;

@@ -10,7 +10,12 @@ global.texto		 = noone;
 global.caixaativa    = noone;
 global.salaatual     = noone;
 #endregion 
+#region mobile
 
+global.espacovisivel = false;
+global.espacomobile  = false ;
+
+#endregion
 #region julia
 
 
@@ -31,4 +36,24 @@ global.controleatual  = noone;
 
 #endregion
 
-global.personagem = 1;
+#region personagem
+global.restpersonagem = 1
+global.personagem     = 1;
+
+#endregion
+
+
+#region caminhos prontos
+
+global.caminho1pronto = false;
+global.caminho2pronto = false;
+global.caminho3pronto = false;
+
+
+#endregion
+
+#region def
+
+global.checkmobile = false;
+
+#endregion

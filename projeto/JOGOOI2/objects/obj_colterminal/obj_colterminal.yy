@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_col_terminal",
+  "%Name":"obj_colterminal",
   "eventList":[],
   "managed":true,
-  "name":"obj_col_terminal",
+  "name":"obj_colterminal",
   "overriddenProperties":[],
   "parent":{
     "name":"terminal",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_terminal",
-    "path":"sprites/spr_terminal/spr_terminal.yy",
+    "name":"spr_white",
+    "path":"sprites/spr_white/spr_white.yy",
   },
   "spriteMaskId":null,
   "visible":true,

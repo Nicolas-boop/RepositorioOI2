@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_terminal",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_terminal",
   "overriddenProperties":[],
@@ -25,17 +23,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"caminho","filters":[
-        "GMRoom",
-      ],"listItems":[],"multiselect":false,"name":"caminho","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_terminal",
-    "path":"sprites/spr_terminal/spr_terminal.yy",
+    "name":"spr_pc",
+    "path":"sprites/spr_pc/spr_pc.yy",
   },
   "spriteMaskId":null,
   "visible":true,

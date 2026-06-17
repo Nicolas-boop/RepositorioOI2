@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"caixas de texto",
-    "path":"folders/Objetos/caixas de texto.yy",
+    "path":"folders/Objetos/telainicial/caixas de texto.yy",
   },
   "parentObjectId":null,
   "persistent":false,

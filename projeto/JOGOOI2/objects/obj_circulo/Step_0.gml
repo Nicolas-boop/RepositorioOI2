@@ -4,10 +4,10 @@ if global.onetimelav2{
 		
 		instance_create_layer(x, y, "circulos", obj_circulocerto);
 		instance_destroy();
-		
+	
 	}else{
 		
-		instance_destroy();
+		alarm[0] = game_get_speed(gamespeed_fps) * 0.25;
 		
 	}
 	
