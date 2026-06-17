@@ -10,8 +10,8 @@
   "name":"obj_textbox",
   "overriddenProperties":[],
   "parent":{
-    "name":"grupo do caminho da yasmim",
-    "path":"folders/Objetos/grupo do caminho da yasmim.yy",
+    "name":"faseyasmim",
+    "path":"folders/Objetos/faseyasmim.yy",
   },
   "parentObjectId":null,
   "persistent":false,
